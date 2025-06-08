@@ -1,6 +1,6 @@
 // Supabase 설정
-const SUPABASE_URL = 'https://jfaqjlrphjkjfoigaibe.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpmYXFqbHJwaGpramZvaWdhaWJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkxNjgxNTgsImV4cCI6MjA2NDc0NDE1OH0.EdIgkjcK4ABO_BvbM81GQ1gibwnHRlw5vjHrzaKQUZs';
+const SUPABASE_URL = 'https://gkjistjxdxgahyazdbhl.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdramlzdGp4ZHhnYWh5YXpkYmhsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkzNjk1NzUsImV4cCI6MjA2NDk0NTU3NX0.QNucLMsOEbuqpQFATwHxZYp_Qp-a_2aHd_XKX68qT2c';
 
 // Supabase 클라이언트 초기화 (CDN 버전 사용)
 const { createClient } = supabase;
